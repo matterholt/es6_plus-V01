@@ -25,6 +25,9 @@ video below will serves as base guide, anthing after will be bonus material
 
 ### Extra info found on google's web devlopers page
 
+[Google:
+Getting Literal With ES6 Template Strings ](https://developers.google.com/web/updates/2015/01/ES6-Template-Strings)
+
 - String Substitution
 - Embedded Epressions (interesting)
 - Multiline string without hacks (easy to understand)
