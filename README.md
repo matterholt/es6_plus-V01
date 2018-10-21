@@ -12,8 +12,6 @@ To be a good developer I need and want to learn es6 and next feature of the code
 video below will serves as base guide, anthing after will be bonus material
 [JavaScript ES6, ES7, ES8: Learn to Code on the Bleeding Edge](https://www.youtube.com/watch?v=nZ1DMMsyVyI)
 
-## Lesson One
-
 ### Template Strings
 
 **Python has f strings look like this**
@@ -34,3 +32,39 @@ Getting Literal With ES6 Template Strings ](https://developers.google.com/web/up
 - String formatting
 - String tagging for save HTML escaping, localization and more
   - [Tagged Templates: Understanding ECMAScript 6](https://leanpub.com/understandinges6/read#leanpub-auto-multiline-strings)
+
+### Destructuring
+
+When working with Object and Arrays.
+
+look into more to see purpose use.
+
+### Object Literal
+
+### For of Loop
+
+### Spread Operator
+
+### Rest Operator
+
+### Arrow Functions
+
+### Default Params
+
+### Array.includes()
+
+### let & const
+
+### Export & import
+
+### String.padStart(),String.padEnd()
+
+### Classes
+
+### Trailing commas
+
+### Async/Await
+
+### Sets
+
+### next in JS

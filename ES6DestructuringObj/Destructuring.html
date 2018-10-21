@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Destructuring</title>
+</head>
+
+<body>
+    <h1>Destructuring Objects</h1>
+    <div class="beforeES6">
+        <h2>before Es6</h2>
+    </div>
+    <div class="witheES6">
+        <h2>With Es6</h2>
+    </div>
+    <script>
+        const personInf0 = {
+            fname: "Matt",
+            lname: "Atterholt",
+            city: "New Liberty",
+            state: "Iowa",
+            zipCode: 12345
+        };
+
+        const { fname, lname } = personInf0;
+        console.log(`${fname} ${lname}`);
+
+
+    </script>
+
+</body>
+
+</html>
