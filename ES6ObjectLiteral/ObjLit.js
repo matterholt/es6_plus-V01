@@ -17,12 +17,15 @@ function addressMrk(city, state) {
 addressMrk("New Liberty", "Iowa");
 */
 function AddresMkr(address) {
+  //destructure
+  const { city, state } = address;
   const newAddress = {
-    city: address.city,
-    state: address.state,
+    //odj literals
+    city,
+    state,
     country: "United States"
   };
-  console.log(newAddress);
+  console.log(`${newAddress.city}, ${newAddress.state}, ${newAddress.country}`);
 }
 
 AddresMkr({ city: "Dallas", state: "Texas" });
